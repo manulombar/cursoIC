@@ -16,6 +16,7 @@ mvn archetype:generate -DarchetypeArtifactId=maven-archetype-quickstart
 El identificador de un proyecto es la suma de groupID + ArtefactID
 
 
+
 # GOLES
 mvn gole_name
     - compile: compilacion del proyecto
