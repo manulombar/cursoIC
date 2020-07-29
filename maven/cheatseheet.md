@@ -2,7 +2,7 @@
 
 ## creacion de un nuevo proyecto java basado en plantilla (arquetipo)
 mvn archetype:generate -DarchetypeArtifactId=maven-archetype-quickstart
-
+mvn archetype:generate -DarchetypeArtifactId=maven-archetype-webapp
 
 ##Idsentificar un proyecto maven
 - groupID: 
